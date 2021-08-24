@@ -1,8 +1,8 @@
-pip
+conda
 numpy>=1.21.2
 pandas>=1.3.2
 gcc7
-pystan==2.18.0.0
+pystan==2.19.0.0
 fbprophet
 pybase64
 streamlit
